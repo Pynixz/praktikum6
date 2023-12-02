@@ -126,28 +126,28 @@ while True:
 
 Penjelasan ini memberikan pemahaman mendalam tentang setiap aspek program, fungsi, dan cara program berinteraksi dengan pengguna serta melakukan manipulasi data pada `daftar_nilai`.
 
-### OUTPUT
+# OUTPUT
 
 
-- Hasil Inisialisasi Daftar Nilai
+    - Hasil Inisialisasi Daftar Nilai
 ![Screenshot 2023-12-02 213705](https://github.com/Pynixz/praktikum6/assets/147568964/afae8fb0-9fc7-414d-b551-3ab21af7ce78)
 
 
-- Hasil Tambah data
+    - Hasil Tambah data
 ![Screenshot 2023-12-02 211306](https://github.com/Pynixz/praktikum6/assets/147568964/44022dcb-f923-4efa-b9d1-ab2485b8f3b5)
 
 
-- Hasil Tampilkan Data
+    - Hasil Tampilkan Data
 ![Screenshot 2023-12-02 211254](https://github.com/Pynixz/praktikum6/assets/147568964/2f2c0b61-13d5-44c0-adf4-b072670f623a)
 
 
-- Hasil Hapus Data
+    - Hasil Hapus Data
 ![Screenshot 2023-12-02 211334](https://github.com/Pynixz/praktikum6/assets/147568964/0f0b71c6-c0f2-4317-94a8-539c4540f157)
 
 
-- Hasil Ubah Data
+    - Hasil Ubah Data
 ![Screenshot 2023-12-02 211358](https://github.com/Pynixz/praktikum6/assets/147568964/f122e561-3859-4619-b4f9-0ac378edd32d)
 
 
-- END / Keluar
+    - END / Keluar
 ![Screenshot 2023-12-02 211424](https://github.com/Pynixz/praktikum6/assets/147568964/684794ca-e5de-464c-ae4d-6afa9b7a247a)
