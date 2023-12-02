@@ -155,4 +155,4 @@ Penjelasan ini memberikan pemahaman mendalam tentang setiap aspek program, fungs
 
 ### Flowchart
 
-![flowchart praktikum6](https://github.com/Pynixz/praktikum6/assets/147568964/41071599-c17c-4c8d-a177-8f3500ca783e)
+![flowchart praktikum6](https://github.com/Pynixz/praktikum6/assets/147568964/fea054bf-0bc8-43c4-ac25-d3b5f1f2e588)
