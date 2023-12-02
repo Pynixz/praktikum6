@@ -1,142 +1,139 @@
 <mxfile host="65bd71144e">
     <diagram id="9E7lkOLD6z9hyjFyYPhA" name="Page-1">
-        <mxGraphModel dx="1836" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1544" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="17" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="1" source="15" target="16">
+                <mxCell id="17" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" source="15" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="START" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+                <mxCell id="15" value="START" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="365" y="70" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="16" target="18">
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="16" target="18" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="16" target="28">
+                <mxCell id="29" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="16" target="28" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=19;strokeColor=#FFFFFF;" edge="1" parent="1" source="16" target="32">
+                <mxCell id="33" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=19;strokeColor=#FFFFFF;" parent="1" source="16" target="32" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="16" target="43">
+                <mxCell id="44" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="16" target="43" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="46" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="16" target="45">
+                <mxCell id="46" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="16" target="45" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="&lt;font color=&quot;#ffffff&quot;&gt;Tampilkan &lt;br&gt;Menu&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+                <mxCell id="16" value="&lt;font color=&quot;#ffffff&quot;&gt;Tampilkan &lt;br&gt;Menu&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
                     <mxGeometry x="345" y="200" width="160" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="1" source="18" target="20">
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" source="18" target="20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="1" source="18" target="20">
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" source="18" target="20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="1" source="18" target="20">
+                <mxCell id="23" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" source="18" target="20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="18" target="20">
+                <mxCell id="24" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="18" target="20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="18" target="25">
+                <mxCell id="26" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="18" target="25" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="Tambah&lt;br&gt;Data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                <mxCell id="18" value="Tambah&lt;br&gt;Data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
                     <mxGeometry x="-120" y="242.5" width="140" height="65" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="&lt;span style=&quot;color: rgb(209, 213, 219);&quot;&gt;Dapatkan &lt;/span&gt;&lt;span style=&quot;color: rgb(209, 213, 219);&quot;&gt;nama dan nilai dari pengguna&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=17;align=center;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                <mxCell id="20" value="&lt;span style=&quot;color: rgb(209, 213, 219);&quot;&gt;Dapatkan &lt;/span&gt;&lt;span style=&quot;color: rgb(209, 213, 219);&quot;&gt;nama dan nilai dari pengguna&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=17;align=center;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="-380" y="270" width="190" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Söhne, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#d1d5db&quot;&gt;Menambahkan kamus baru&amp;nbsp; &quot;nama&quot; dan &quot;nilai&quot; ke daftar nilai.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=32;align=center;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+                <mxCell id="25" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Söhne, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#d1d5db&quot;&gt;Menambahkan kamus baru&amp;nbsp; &quot;nama&quot; dan &quot;nilai&quot; ke daftar nilai.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=32;align=center;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
                     <mxGeometry x="-390" y="365" width="350" height="85" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="28" target="30">
+                <mxCell id="31" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="28" target="30" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="Tampilkan&lt;br&gt;Data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                <mxCell id="28" value="Tampilkan&lt;br&gt;Data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
                     <mxGeometry x="60" y="290" width="150" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Söhne, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#d1d5db&quot;&gt;Menampilkan daftar dengan nama siswa dan perkiraan nilai&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;arcSize=25;align=center;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                <mxCell id="30" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Söhne, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#d1d5db&quot;&gt;Menampilkan daftar dengan nama siswa dan perkiraan nilai&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;arcSize=25;align=center;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="-5" y="400" width="280" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="35" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="32" target="34">
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="32" target="34" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Hapus&lt;br&gt;Data&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                <mxCell id="32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Hapus&lt;br&gt;Data&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
                     <mxGeometry x="353" y="380" width="145" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="37" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="34" target="36">
+                <mxCell id="37" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="34" target="36" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="34" value="&lt;span style=&quot;color: rgb(209, 213, 219);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Dapatkan nama_hapus dari pengguna&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=24;align=center;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+                <mxCell id="34" value="&lt;span style=&quot;color: rgb(209, 213, 219);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Dapatkan nama_hapus dari pengguna&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=24;align=center;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
                     <mxGeometry x="297.75" y="490" width="255.5" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="40" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="36" target="39">
+                <mxCell id="40" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="36" target="39" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Literasi melalui daftar_nilai&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=30;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                <mxCell id="36" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Literasi melalui daftar_nilai&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=30;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="320.5" y="620" width="210" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="39" target="41">
+                <mxCell id="42" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="39" target="41" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="&lt;span style=&quot;color: rgb(209, 213, 219);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Jika mahasiswa[&quot;nama&quot;] cocok dengan nama_hapus&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=30;align=center;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+                <mxCell id="39" value="&lt;span style=&quot;color: rgb(209, 213, 219);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Jika mahasiswa[&quot;nama&quot;] cocok dengan nama_hapus&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=30;align=center;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
                     <mxGeometry x="308.25" y="750" width="234.5" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="41" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Hapus mahasiswa dari daftar_nilai&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=30;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                <mxCell id="41" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Hapus mahasiswa dari daftar_nilai&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=30;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="314.37" y="890" width="222.25" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="1" source="43" target="57">
+                <mxCell id="58" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" source="43" target="57" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="END" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                <mxCell id="43" value="END" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
                     <mxGeometry x="825" y="247.5" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="45" target="47">
+                <mxCell id="48" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="45" target="47" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="45" value="Ubah Data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                <mxCell id="45" value="Ubah Data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
                     <mxGeometry x="610" y="290" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#F0F0F0;" edge="1" parent="1" source="47" target="49">
+                <mxCell id="50" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#F0F0F0;" parent="1" source="47" target="49" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="47" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Dapatkan nama_ubah dari pengguna&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=38;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                <mxCell id="47" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Dapatkan nama_ubah dari pengguna&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=38;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="582.5" y="430" width="195" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="52" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="49" target="51">
+                <mxCell id="52" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="49" target="51" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Iterasi melalui daftar_nilai&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=38;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+                <mxCell id="49" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Iterasi melalui daftar_nilai&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=38;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
                     <mxGeometry x="620" y="560" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="54" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="51" target="53">
+                <mxCell id="54" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="51" target="53" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="51" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Jika mahasiswa[&quot;nama&quot;] cocok dengan nama_ubah&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=38;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                <mxCell id="51" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Jika mahasiswa[&quot;nama&quot;] cocok dengan nama_ubah&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=38;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="600" y="680" width="240" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="53" target="55">
+                <mxCell id="56" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="53" target="55" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Dapatkan nilai_baru dari pengguna&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=38;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+                <mxCell id="53" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Dapatkan nilai_baru dari pengguna&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=38;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
                     <mxGeometry x="615" y="800" width="210" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Perbarui mahasiswa[&quot;nilai&quot;] dengan nilai_baru&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=38;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                <mxCell id="55" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Perbarui mahasiswa[&quot;nilai&quot;] dengan nilai_baru&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=38;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="630" y="920" width="270" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" edge="1" parent="1" source="57" target="59">
+                <mxCell id="60" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;strokeColor=#FFFFFF;" parent="1" source="57" target="59" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" value="" style="edgeStyle=none;html=1;fontFamily=Times New Roman;fontSize=20;fontColor=#000000;strokeColor=#FFFFFF;" edge="1" parent="1" source="57" target="43">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="57" value="&lt;span style=&quot;color: rgb(209, 213, 219); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Tampilkan &quot;Program selesai. Sampai jumpa!&quot;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=34;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+                <mxCell id="57" value="&lt;span style=&quot;color: rgb(209, 213, 219); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Tampilkan &quot;Program selesai. Sampai jumpa!&quot;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=34;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
                     <mxGeometry x="800" y="350" width="240" height="87.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="59" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Akhiri program&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=34;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                <mxCell id="59" value="&lt;span style=&quot;color: rgb(209, 213, 219); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Akhiri program&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;rounded=1;arcSize=34;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="880" y="480" width="160" height="70" as="geometry"/>
                 </mxCell>
             </root>
